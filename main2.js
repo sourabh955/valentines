@@ -116,5 +116,6 @@ function ly2() {
 
 /* ✅ ONLY NEW FUNCTION */
 function goToSite() {
-  window.open("website2/index.html","_self"); // CHANGE LINK
+  window.open("https://sourabh-valentines2-day.netlify.app/","_self"); // CHANGE LINK
 }
+
